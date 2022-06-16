@@ -1,0 +1,23 @@
+{
+  "name": "api-store",
+  "version": "0.1.0",
+  "description": "Fake api for consuming data to display in dynamic template.",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seelvdot/api-store.git"
+  },
+  "keywords": [
+    "api",
+    "json",
+    "server"
+  ],
+  "author": "seelvdot",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/seelvdot/api-store/issues"
+  },
+  "homepage": "https://github.com/seelvdot/api-store#readme"
+}
