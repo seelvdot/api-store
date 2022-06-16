@@ -1,1 +1,257 @@
-{}
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food"
+    },
+    {
+      "id": 2,
+      "name": "Drinks"
+    },
+    {
+      "id": 3,
+      "name": "Snacks"
+    },
+    {
+      "id": 4,
+      "name": "Consumables"
+    },
+    {
+      "id": 5,
+      "name": "Eletronics"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "index": "hamburguer",
+      "category": 1,
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "index": "pizza",
+      "category": 1,
+      "price": 60
+    },
+    {
+      "id": 3,
+      "name": "Hotdog",
+      "index": "hotdog",
+      "category": 1,
+      "price": 40
+    },
+    {
+      "id": 4,
+      "name": "Bread",
+      "index": "bread",
+      "category": 1,
+      "price": 15
+    },
+    {
+      "id": 5,
+      "name": "Sandwich",
+      "index": "sandwich",
+      "category": 1,
+      "price": 40
+    },
+    {
+      "id": 6,
+      "name": "Coke",
+      "index": "coke",
+      "category": 2,
+      "price": 20
+    },
+    {
+      "id": 7,
+      "name": "Soda",
+      "index": "soda",
+      "category": 2,
+      "price": 20
+    },
+    {
+      "id": 8,
+      "name": "Coffee",
+      "index": "coffee",
+      "category": 2,
+      "price": 15
+    },
+    {
+      "id": 9,
+      "name": "Tea",
+      "index": "tea",
+      "category": 2,
+      "price": 15
+    },
+    {
+      "id": 10,
+      "name": "Orange Juice",
+      "index": "orangejuice",
+      "category": 2,
+      "price": 25
+    },
+    {
+      "id": 11,
+      "name": "Apple Juice",
+      "index": "applejuice",
+      "category": 2,
+      "price": 25
+    },
+    {
+      "id": 12,
+      "name": "Strawberry Juice",
+      "index": "strawberryjuice",
+      "category": 2,
+      "price": 25
+    },
+    {
+      "id": 13,
+      "name": "Donuts",
+      "index": "donuts",
+      "category": 3,
+      "price": 10
+    },
+    {
+      "id": 14,
+      "name": "Chips",
+      "index": "chips",
+      "category": 3,
+      "price": 10
+    },
+    {
+      "id": 15,
+      "name": "Popcorn",
+      "index": "popcorn",
+      "category": 3,
+      "price": 10
+    },
+    {
+      "id": 16,
+      "name": "Candy",
+      "index": "candy",
+      "category": 3,
+      "price": 10
+    },
+    {
+      "id": 17,
+      "name": "Cupcake",
+      "index": "cupcake",
+      "category": 3,
+      "price": 15
+    },
+    {
+      "id": 18,
+      "name": "Chocolate",
+      "index": "chocolate",
+      "category": 3,
+      "price": 15
+    },
+    {
+      "id": 19,
+      "name": "Fries",
+      "index": "fries",
+      "category": 1,
+      "price": 35
+    },
+    {
+      "id": 20,
+      "name": "Firecracker",
+      "index": "firecracker",
+      "category": 4,
+      "price": 60
+    },
+    {
+      "id": 21,
+      "name": "Deck",
+      "index": "deck",
+      "category": 4,
+      "price": 40
+    },
+    {
+      "id": 22,
+      "name": "Cotton",
+      "index": "cotton",
+      "category": 4,
+      "price": 20
+    },
+    {
+      "id": 23,
+      "name": "Vape",
+      "index": "vape",
+      "category": 5,
+      "price": 350
+    },
+    {
+      "id": 24,
+      "name": "Lighter",
+      "index": "lighter",
+      "category": 4,
+      "price": 80
+    },
+    {
+      "id": 25,
+      "name": "Radio",
+      "index": "radio",
+      "category": 5,
+      "price": 200
+    },
+    {
+      "id": 26,
+      "name": "Cellphone",
+      "index": "cellphone",
+      "category": 5,
+      "price": 500
+    },
+    {
+      "id": 27,
+      "name": "Pager",
+      "index": "pager",
+      "category": 5,
+      "price": 150
+    },
+    {
+      "id": 28,
+      "name": "Notebook",
+      "index": "notebook",
+      "category": 5,
+      "price": 1800
+    },
+    {
+      "id": 29,
+      "name": "Camera",
+      "index": "camera",
+      "category": 5,
+      "price": 1000
+    },
+    {
+      "id": 30,
+      "name": "Notepad",
+      "index": "notepad",
+      "category": 4,
+      "price": 70
+    },
+    {
+      "id": 31,
+      "name": "Tablet",
+      "index": "tablet",
+      "category": 5,
+      "price": 750
+    },
+    {
+      "id": 32,
+      "name": "Pendrive",
+      "index": "pendrive",
+      "category": 5,
+      "price": 500
+    },
+    {
+      "id": 33,
+      "name": "Blender",
+      "index": "blender",
+      "category": 5,
+      "price": 250
+    }
+  ]
+}
